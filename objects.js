@@ -1,5 +1,6 @@
-var playlist = {Slowdive: 'Phil Ochs',
-  My
+var playlist = {Slowdive:
+ 
+  
 }
 
 function updatePlaylist (object, name, title){

@@ -1,4 +1,4 @@
-var playlist = {Phil_Ochs: 'Slowdive'}
+var playlist = {Slowdive: 'Phil Ochs'}
 
 function updatePlaylist (object, name, title){
   
